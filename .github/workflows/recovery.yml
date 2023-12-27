@@ -6,10 +6,10 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://www.mediafire.com/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://www.mediafire.com/file/d0zodct0ddurejw/recovery.img/file?dkey=vuz4i0o6vcu&r=330
 
 jobs:
   build:
