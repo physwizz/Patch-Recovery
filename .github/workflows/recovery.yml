@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://www.dropbox.com/scl/fi/sxuq6bju6bennce49se39/recovery.img?rlkey=81cef7rz2r9mad0skw35ceyf2&st=kh6q20bf&dl=0
 
 jobs:
   build:
