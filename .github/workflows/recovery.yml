@@ -3,7 +3,7 @@ name: RECOVERY
 on:
   workflow_dispatch:
     inputs:
-      RECOVERY_URL:
+      RECOVERY_URL: https://www.dropbox.com/scl/fi/56fse6dtwrqu7khb4qcyu/recovery.img?rlkey=8ycs1vgi8eo7hdjksxcqs9g0b&st=704veebn&dl=0
         description: 'RECOVERY URL'
         required: true
         default: 'https://transfer.sh/(RECOMMENDED)'
