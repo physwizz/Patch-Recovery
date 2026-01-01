@@ -6,10 +6,10 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://bashupload.com/Y0tJf/recovery.img'
+        default: 'https://www.uploader.sh/KFMMx/recovery.img'
 
 env:
-  RECOVERY_URL: https://bashupload.com/Y0tJf/recovery.img
+  RECOVERY_URL: https://www.uploader.sh/KFMMx/recovery.img
 
 jobs:
   build:
